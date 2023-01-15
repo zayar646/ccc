@@ -158,6 +158,6 @@ section>span{
         font-size: 23px;
     }
     .bigcontainer{
-        height: 192vh;
+        height: auto;
     }
 }
